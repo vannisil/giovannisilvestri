@@ -15,7 +15,7 @@ export default function Bio() {
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Sono nato a Putignano, in provincia di Bari, il 22 Agosto 2000. Dopo aver conseguito il diploma, nel luglio 2019,
-            presso il Liceo Scientifico "Majorana-Laterza", nel paese Natale, ho intrapreso la carriera universitaria
+            presso il Liceo Scientifico "Majorana-Laterza", nel paese natale, ho intrapreso la carriera universitaria
             presso il Politecnico di Bari. Ho iniziato gli studi in Ingegneria Informatica e dell'Automazione,
             conseguendo la laurea nel luglio 2022, con votazione 108/110. <br/>
             Attualmente sto frequentando il corso di laurea magistrale in Cybersecurity and Cloud, nella suddetta università.
