@@ -37,9 +37,11 @@ export const skills = [
   "JavaScript",
   "React",
   "Node",
+  "Github",
   "Machine Learning e Deep Learning",
   "Python",
   "Docker e Kubernetes",
   "Ethical Hacking",
-  "Linux e shell"
+  "Linux e shell",
+  "Metasploit"
 ];
