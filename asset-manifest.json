@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/giovannisilvestri/static/css/main.d6aed7c9.css",
+    "main.js": "/giovannisilvestri/static/js/main.007302a2.js",
+    "static/js/787.4771fd22.chunk.js": "/giovannisilvestri/static/js/787.4771fd22.chunk.js",
+    "static/media/profile-pic.png": "/giovannisilvestri/static/media/profile-pic.d5dbb1045d99a4a8ef31.png",
+    "static/media/test1.jpg": "/giovannisilvestri/static/media/test1.2da37733d272e9fbdd9c.jpg",
+    "index.html": "/giovannisilvestri/index.html",
+    "main.d6aed7c9.css.map": "/giovannisilvestri/static/css/main.d6aed7c9.css.map",
+    "main.007302a2.js.map": "/giovannisilvestri/static/js/main.007302a2.js.map",
+    "787.4771fd22.chunk.js.map": "/giovannisilvestri/static/js/787.4771fd22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6aed7c9.css",
+    "static/js/main.007302a2.js"
+  ]
+}
