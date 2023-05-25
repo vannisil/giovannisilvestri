@@ -11,7 +11,7 @@ export const projects = [
     title: "Ahereum",
     subtitle: "Blockchain-based Drone Simulator",
     description:
-      "Ahereum nasce con l'idea di rendere tracciabile e sicuro il percorso di un drone, offrendo un'interfaccia semplice ed intuitiva e, grazie all'utilizzo della Blockchain Ethereum, immutabile.",
+      "Ahereum nasce con l'idea di rendere tracciabile e sicuro il percorso di un drone, offrendo un'interfaccia semplice ed intuitiva e, grazie all'utilizzo della Blockchain Ethereum, immutabile. Clicca per visualizzare il codice sorgente su GitHub!",
     image: "./ahereum.jpg",
     link: "https://github.com/vannisil/cns_drone_simulator",
   },
