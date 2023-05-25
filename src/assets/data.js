@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Project Work universitario per la realizzazione di una Web App per la gestione di un fast food costituito da: interfaccia cliente per la realizzazione di ordini; interfaccia amministratore per aggiunta, modifica ed eliminazione di elementi dal menù; interfaccia reparto preparazione per gestione degli ordini.",
     image: "./mern.jpeg",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
     title: "Il mio lavoro di tesi ",
@@ -29,24 +29,7 @@ export const projects = [
     description:
       "Tesi di laurea sperimentale in collaborazione con la Univeristy of Maryland, intitolata 'Strumenti diagnostici per il rilevamento del glaucoma'. Il lavoro ha previsto lo sviluppo di algoritmi in linguaggio MATLAB per la rilevazione della nittitazione, determinazione della ROI e rilevazione del bordo della cornea dell'occhio del paziente.",
     image: "./thesis.png",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    link: "",
   },
 ];
 
