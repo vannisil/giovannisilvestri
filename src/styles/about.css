@@ -1,0 +1,6 @@
+.profile-picture {
+    max-width: 50vh;
+    max-height: 50vh;
+    border-radius: 50%;
+    padding-left: 50px;
+}
